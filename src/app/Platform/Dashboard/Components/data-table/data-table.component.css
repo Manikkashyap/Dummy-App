@@ -1,0 +1,11 @@
+.baseColor{
+  color: #04AA6D;
+}
+
+.font-bold{
+  font-weight: 500;
+}
+
+.container-fluid {
+  opacity: 0.2;
+}

@@ -1,0 +1,26 @@
+.box1c {
+	color: #04AA6D!important;
+    font-weight: bold;
+}
+
+.box2c {
+    font-weight:500;
+}
+
+h1, h2, h3, h4, h5, h6 {
+	font-family: 'Poppins', sans-serif!important;
+}
+
+.box1 {
+	background: #aaebaa!important;
+	border-radius: 10px!important;
+}
+
+.search{
+    background-color: #04AA6D;
+    color: white;
+}
+
+.form-group {
+    margin-bottom: 1rem;
+}
